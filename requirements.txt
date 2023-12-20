@@ -1,1 +1,3 @@
 dbt
+pandas
+psycopg2
